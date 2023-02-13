@@ -1,4 +1,3 @@
-const socket = io('http://localhost:8000');
 
 const body = document.querySelector('.container');
 const chatBox = document.getElementById('chatContainer');
